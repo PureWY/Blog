@@ -5,6 +5,11 @@ date: 2019-01-09 15:12:05
 subtitle: React-Native项目
 header-img: "code.jpg"
 tags:
+- Site
+- Blog
+- Code
+catagories:
+- Hexo
 ---
 
 >最近公司在准备一个 React-Native 的 App 项目，所以我就准备研究一下 React-Native,因为需要在安卓机上或者安卓虚拟机运行，就涉及到安装Android Studio等等，这玩意需要安装很多东西，初学者很难成功的将项目跑起来。也是为了记录一下自己鼓捣的过程，就写了这样一篇博客，教大家如何完美的将项目运行起来。
