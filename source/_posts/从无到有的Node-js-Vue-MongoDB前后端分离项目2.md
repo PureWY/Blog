@@ -3,7 +3,7 @@ title: "从无到有的 Node.js+Vue.js+MongoDB 前后端分离项目(二)"
 catalog: true
 date: 2018-12-15 15:40:27
 subtitle: "一个自制的旅游网站"
-header-img: "travels.jpg"
+header-img: "code.jpg"
 tags:
 - Site
 - Blog
